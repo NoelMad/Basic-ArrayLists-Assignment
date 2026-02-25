@@ -5,7 +5,7 @@ public class ArrayListBasics {
         // Part A: String ArrayList
         ArrayList<String> fruits = new ArrayList<>();
 
-        // Add fruits
+        // Add fruits 
         fruits.add("Apple");
         fruits.add("Banana");
         fruits.add("Orange");
