@@ -1,5 +1,4 @@
 # Basic ArrayLists Assignment
-
 ## Learning Objectives
 
 By completing this assignment, you will:
